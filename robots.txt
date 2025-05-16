@@ -1,1 +1,1 @@
-Sitemap: https://EconMaett.github.io/ea-inflation/sitemap.xml
+Sitemap: https://econmaett.github.io/ea-inflation/sitemap.xml
